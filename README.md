@@ -8,7 +8,7 @@ Conceito de funcionalidade: Listar produtos, verificar quantidades e preço unit
 Exemplo de nomes de produtos:
 Arroz, Feijão e Óleo
 
-# Instruções
+# Instruções:
 1 - Executar o script em um Terminal.
 
 2 - O Sistema informa as opções para o usuário
@@ -17,7 +17,7 @@ Arroz, Feijão e Óleo
 
 4 - E para encerrar o sistema o usuário digita o número referente de saída
 
-# Funcionalidades
+# Funcionalidades:
 1 - Visualizar o Estoque Atual
 
 2 - Adicionar Produto
@@ -26,9 +26,7 @@ Arroz, Feijão e Óleo
 
 4 - Sair do Sistema
 
-# Requisitos
-# Ambiente:
-Ter o Python instalado.
+# Requisitos:
+-Ter o Python instalado.
 
-# Ferramenta:
-Executar via Terminal (CMD ou PowerShell).
+-Executar via Terminal (CMD ou PowerShell).
